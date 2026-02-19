@@ -15,3 +15,10 @@ https://www.exchangerate-api.com/docs - Документация.
 ![alt text](img/image-7.png)
 ![alt text](img/image-8.png)
 ![alt text](img/image-9.png)
+Практическая работа №4.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
