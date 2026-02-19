@@ -16,6 +16,7 @@ https://www.exchangerate-api.com/docs - Документация.
 ![alt text](img/image-8.png)
 ![alt text](img/image-9.png)
 Практическое занятие №4.
-![alt text](img/4praktika.png)
+![alt text](img/image-10.png)
+
 
 
