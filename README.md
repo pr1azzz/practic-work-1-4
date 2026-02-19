@@ -1,4 +1,4 @@
-Практическое занятие 3.
+Практическое занятие №3.
 1. Протестируйте ваш реалиованный API из Практического занятия 2 с помощью
 Postman (не менее 3-х запросов):
 ![alt text](img/image.png)
@@ -15,4 +15,5 @@ https://www.exchangerate-api.com/docs - Документация.
 ![alt text](img/image-7.png)
 ![alt text](img/image-8.png)
 ![alt text](img/image-9.png)
-
+Практическое занятие №4.
+![alt text](img/4praktika(1))
