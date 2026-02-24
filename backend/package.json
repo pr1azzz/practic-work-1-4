@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "CRUD API для товаров",
+  "description": "REST API with Swagger documentation",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,8 +12,8 @@
     "express": "^4.22.1",
     "nanoid": "^5.1.6"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "devDependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
 }

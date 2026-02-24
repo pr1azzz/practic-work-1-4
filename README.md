@@ -27,3 +27,4 @@ Express (для клиента и сервера, соответственно),
 ![alt text](img-4/image-3.png)
 ![alt text](img-4/image-4.png)
 ![alt text](img-4/image-5.png)
+![alt text](img-5/image-5.png)
